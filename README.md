@@ -1,2 +1,2 @@
 # tourisum
-developed a tourisum website using react javascript
+here i have developed a mysore tourisum website using react javascript and node js with the help of html and css.
